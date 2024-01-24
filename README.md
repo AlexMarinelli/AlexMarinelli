@@ -1,6 +1,6 @@
 -  Hi, I’m Alex Marinelli
 -  I’m interested in Sailing, Finance and Data
--  I’m currently learning about using natural language processing for sports 
+-  I’m currently learning about using natural language processing for optimising sports coverage
 -  Email me: amarinelli4455@gmail.com
 
 <!---
